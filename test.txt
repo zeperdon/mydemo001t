@@ -1,3 +1,6 @@
 rpgboy
-pc rpgboypc rpgboy
+<<<<<<< HEAD
+pc rpgboy
+=======
 git rpgboy
+>>>>>>> 1301608bb10e34399e9a658a4e2e2cd38e6256ed
